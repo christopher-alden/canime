@@ -1,0 +1,26 @@
+/* .gradient {
+    background: rgb(54, 28, 0);
+    background: radial-gradient(circle, rgba(54, 28, 0, 1) 6%, rgba(0, 0, 0, 1) 41%, rgba(11, 11, 11, 1) 100%);
+    animation: breathing 4s ease-out infinite;
+  }
+  
+  @keyframes breathing {
+    0% {
+      transform: scale(1);
+      opacity: 0.8;
+    }
+    50% {
+      transform: scale(1.5);
+      opacity: 1;
+    }
+    100% {
+      transform: scale(1);
+      opacity: 0.8;
+    }
+  } */
+  
+
+.b-gradient{
+    background: rgb(251,133,0);
+    background: linear-gradient(39deg, rgba(251,133,0,1) 0%, rgba(172,0,0,1) 100%);
+}
